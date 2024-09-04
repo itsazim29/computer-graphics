@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Load the image
-image_path = "C:\\Users\\mohammad azim\\Desktop\\7.png"  # Replace with the path to your image
+image_path = "image.jpg"  # Replace with the path to your image
 img = cv2.imread(image_path)
 
 # Convert the image to grayscale
