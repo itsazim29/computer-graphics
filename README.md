@@ -3,4 +3,4 @@ A basic computer graphics program is designed to introduce fundamental concepts 
 
 NOTE: use double // for image link
 
-example:C:\\Users\\name\\Desktop\\image.png
+example:C:\\User\\name\\Desk\\image.png
